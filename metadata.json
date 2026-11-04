@@ -1,0 +1,6 @@
+{
+  "name": "Nexus",
+  "description": "Privacy-first decentralized super app unifying encrypted chat, social feeds, ephemeral moments, and zero-knowledge security vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
